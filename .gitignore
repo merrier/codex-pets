@@ -1,0 +1,11 @@
+.DS_Store
+backup/
+dist/
+
+runs/*
+!runs/*/
+runs/*/*
+!runs/*/qa/
+runs/*/qa/*
+!runs/*/qa/gifs/
+!runs/*/qa/gifs/*.gif
